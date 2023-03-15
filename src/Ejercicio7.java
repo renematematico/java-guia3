@@ -47,7 +47,7 @@ public class Ejercicio7 {
         System.out.println("La cantidad de cadenas CORRECTAS son: "+contC);
         System.out.println("La cantidad de cadenas INCORRECTAS son: "+contI);
          System.out.println("=================");
-         System.out.println("PROGRAMA TERMIADO");
+         System.out.println("PROGRAMA TERMINADO");
          System.out.println("=================");        
         }    
     }
